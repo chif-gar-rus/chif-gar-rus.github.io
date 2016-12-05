@@ -1,2 +1,0 @@
-RewriteEngine on
-RewriteRule ^ http://chif-gar.ru/ [L,R=301]
