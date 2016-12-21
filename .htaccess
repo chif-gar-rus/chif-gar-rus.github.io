@@ -1,4 +1,1 @@
-Options +FollowSymLinks
-RewriteEngine on
-
-Redirect 301 /xn----8sbis7but.xn--p1acf http://www.chif-gar.ru/
+Redirect 301 /index.html/ http://chif-gar.ru/
