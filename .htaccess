@@ -1,1 +1,4 @@
-Redirect 301 /chif-gar.ru http://www.chif-gar.ru/
+Options +FollowSymLinks
+RewriteEngine on
+
+Redirect 301 /xn----8sbis7but.xn--p1acf http://www.chif-gar.ru/
